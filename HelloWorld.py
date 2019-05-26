@@ -3,3 +3,4 @@ def mult_2(x):
     return x
 
 print(mult_2(3))
+print(this how it works, folks)
